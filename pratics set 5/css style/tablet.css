@@ -1,0 +1,37 @@
+.container-logo img{
+    width: 250px;
+}
+.image-home{
+    display: none;
+}
+.right ul li{
+    display: none;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    height: 400px;
+}
+.home-tag{
+    font-size: 1.6rem;
+}
+.p-pramery{
+    font-size: 1.2rem;
+}
+.heading{
+    font-size: 1.2rem;
+}
+.testimonials{
+    flex-direction: column;
+}
+.navbar-btn{
+    display: none;
+}
+.second li{
+    display: none;
+}
+.second-navigation{
+    padding: 17px 3px;
+}

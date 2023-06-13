@@ -1,0 +1,11 @@
+li :hover{
+    text-decoration: underline;
+    padding: 12px 0px;
+    /* text-decoration: 2px solid red; */
+    
+}
+.animation{
+    color: blue;
+    font-size: 1.4rem;
+    padding: 0px 3px;
+}
